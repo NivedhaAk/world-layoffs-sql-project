@@ -1,4 +1,4 @@
--- Data cleaning Project
+-- Data cleaning Project by Nivedha Sankaran
 
 
 SELECT *
