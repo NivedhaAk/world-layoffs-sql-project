@@ -1,4 +1,4 @@
--- EDA ON WORLD LAYOFFS
+-- EDA ON WORLD LAYOFFS by Nivedha Sankaran
 
 select * 
 from layoffs_staging2
